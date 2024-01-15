@@ -14,9 +14,10 @@ El proyecto está compuesto de varios repositorios descritos a continuación:
 Los plugins disponibles:
 
 - [Transcripción automática](https://github.com/Archihub-App/transcribeWhisperX):
-- [Segmentación de formularios con manuscritos]():
-- [OCR y segmentación para documentos]():
-- [Radio en línea](#): 
+- [Segmentación de formularios con manuscritos](https://github.com/Archihub-App/documentSegment):
+- [OCR, NER y segmentación para documentos](https://github.com/Archihub-App/ocrProcessing):
+- [Radio en línea](#): PRONTO | Plugin para desplegar una radio en línea con material de audio que se encuentre catalogado en la herramienta.
+- [Integración con WhatsApp](#): PRONTO | Plugin para usar WhatsApp o Telegram como medios de ingesta de información a la herramienta.
 
 ---
 
