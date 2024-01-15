@@ -8,7 +8,7 @@ Este desarrollo se beneficia de la experiencia en la administración de archivos
 
 El proyecto está compuesto de varios repositorios descritos a continuación:
 
-1- (Iniciando con el aplicativo)[https://github.com/Archihub-App/getting-started]: recopilación de guías de uso, de instalación y empaquetados para su despliegue en diferentes arquitecturas.
+1- [Iniciando con el aplicativo](https://github.com/Archihub-App/getting-started): recopilación de guías de uso, de instalación y empaquetados para su despliegue en diferentes arquitecturas.
 
 ---
 
