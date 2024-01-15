@@ -13,9 +13,9 @@ El proyecto está compuesto de varios repositorios descritos a continuación:
 
 Los plugins disponibles:
 
-- [Transcripción automática](https://github.com/Archihub-App/transcribeWhisperX): 
-- [Segmentación de formularios con manuscritos](https://github.com/Archihub-App/documentSegment):
-- [OCR, NER y segmentación para documentos](https://github.com/Archihub-App/ocrProcessing):
+- [Transcripción automática](https://github.com/Archihub-App/transcribeWhisperX): Transcripción automática de audios y videos, con la posibilidad de visualizar la transcripción como subtitulos o en texto completo. La transcripción también puede ser traducida.
+- [Segmentación de formularios con manuscritos](https://github.com/Archihub-App/documentSegment): Plugin que permite segmentar un documento identificando los bloques de texto, los manuscritos y las etiquetas correspondientes a esos manuscritos para finalmente generar un nuevo PDF con los manuscritos tachados siguiendo un protocolo especificado en el plugin.
+- [OCR, NER y segmentación para documentos](https://github.com/Archihub-App/ocrProcessing): Plugin que permite en primer lugar segmentar documentos (Imagenes, bloques de texto, pies de página, titulos, etc...), hacer un OCR sobre esos bloques y finalmente subrayar entidades nombradas.
 - [Segmentación de imágenes](#): PRONTO | Plugin para segmentar e identificar componentes de las imágenes.
 - [Extracción de paletas de colores](#): PRONTO | Plugin para extraer paletas con los colores más importantes de una imagen o de un video segmentado por tiempo.
 - [Radio en línea](#): PRONTO | Plugin para desplegar una radio en línea con material de audio que se encuentre catalogado en la herramienta.
