@@ -20,6 +20,7 @@ Los plugins disponibles:
 - [Extracción de paletas de colores](#): PRONTO | Plugin para extraer paletas con los colores más importantes de una imagen o de un video segmentado por tiempo.
 - [Radio en línea](#): PRONTO | Plugin para desplegar una radio en línea con material de audio que se encuentre catalogado en la herramienta.
 - [Integración con WhatsApp](#): PRONTO | Plugin para usar WhatsApp o Telegram como medios de ingesta de información a la herramienta.
+- [Identificación de rostros](#): PRONTO | Plugin para identificar rostros en material audiovisual, bien sea en imágenes o videos.
 
 ---
 
