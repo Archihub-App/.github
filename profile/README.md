@@ -21,6 +21,7 @@ Los plugins disponibles:
 - [Radio en línea](#): PRONTO | Plugin para desplegar una radio en línea con material de audio que se encuentre catalogado en la herramienta.
 - [Integración con WhatsApp](#): PRONTO | Plugin para usar WhatsApp o Telegram como medios de ingesta de información a la herramienta.
 - [Identificación de rostros](#): PRONTO | Plugin para identificar rostros en material audiovisual, bien sea en imágenes o videos.
+- [Extracción de articulos de Internet](#): PRONTO | Plugin para extraer y catalogar artículos de internet
 
 ---
 
