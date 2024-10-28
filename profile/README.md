@@ -10,6 +10,7 @@ El proyecto está compuesto de varios repositorios descritos a continuación:
 
 - [Iniciando con el aplicativo](https://github.com/Archihub-App/getting-started): recopilación de guías de uso, de instalación y empaquetados para su despliegue en diferentes arquitecturas.
 - [Backend del aplicativo](https://github.com/Archihub-App/archihub-backend): Acá se encuentra la columna vertebral del proyecto. Este es el backend que hace posible la gestión de todo el sistema. El aplicativo por defecto viene con dos plugins, uno para el procesamiento de cualquier tipo de archivo y otro para generar inventarios del contenido a formato Excel.
+- [Frontend del aplicativo](#) Acá se encuentra el frontend de la interfaz de administración del repositorio. Esta interfaz no es de código abierto, sin embargo es de uso libre. En este repositorio se encuentra el proyecto compilado a las instrucciones de despliegue para su implementación.
 
 Los plugins disponibles:
 
